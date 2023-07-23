@@ -1,0 +1,112 @@
+All Tags I Took In HTML Course:
+    HTML
+    DOCTYPE
+    head
+    meta
+    title
+    script
+    style
+    link
+    body
+    comments
+    Standard And Quirks Mode
+    headings
+    paragraphs
+    Lists – UL, OL, DL
+    Image And Deal With Path
+    Links – Anchor Tag
+    Table
+    Span And Break And Horizontal Rule
+    Div 
+    HTML Entities
+    Semantic Elements
+    Audio
+    Video
+    Input Types And Label
+    Required, Placeholder, Value
+    Action, Name, Method
+    Hidden, Reset, Color, Range, Number
+    ReadOnly, Disabled, Autofocus
+    Radio And Checkbox
+    Select and Textarea
+    File, Search, URL, Time
+    Data List, Novalidate, Target
+    Blockquote, Wbr, Bdi, Button
+    iFrame, Pre, Code
+    Accessibility Intro
+    ARIA And Screen Readers
+
+------------------------------------------------------------------------------------------
+Introduction and What I Need To Learn
+
+Elements and Browser
+
+First Project And First Page
+
+Head And Nested Elements
+
+Comments and Use Cases
+
+Doctype And Standard And Quirks Mode
+
+Headings And Use Cases
+
+Syntax And Tests
+
+Paragraph Element
+
+Elements Attributes
+
+Formatting Elements
+
+Links – Anchor Tag
+
+Image And Deal With Path
+
+Lists – UL, OL, DL
+
+Table
+
+Span And Break And Horizontal Rule
+
+Div and How To Use
+
+HTML Entities
+
+Semantic Elements
+
+Layout With Div And Classes
+
+Layout With Semantic Elements
+
+Audio
+
+Video
+
+Form Part 1 – Input Types And Label
+
+Form Part 2 – Required, Placeholder, Value
+
+Form Part 3 – Action, Name, Method
+
+Form Part 4 – Hidden, Reset, Color, Range, Number
+
+Form Part 5 – ReadOnly, Disabled, Autofocus
+
+Form Part 6 – Radio And Checkbox
+
+Form Part 7 – Select and Textarea
+
+Form Part 8 – File, Search, URL, Time
+
+Form Part 9 – Data List, Novalidate, Target
+
+Blockquote, Wbr, Bdi, Button
+
+iFrame, Pre, Code
+
+Accessibility Intro
+
+ARIA And Screen Readers
+
+The End What To Do

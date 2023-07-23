@@ -1,0 +1,73 @@
+<!-- 
+    input(
+        type(file, search, url, date, month, time, list(datalist(option)) => same as select but there is search)
+    )
+    form(novalidate => use it in testing,target)
+    q => quote
+    blockquote
+    button
+    wbr => word break line
+    bdi => be directional isolation 
+    code 
+    pre => pre formated text
+    iframe => take another website and put it in yours
+ -->
+
+<!-- التكليف 01,02,03 -->
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>form</title>
+    </head>
+
+    <body>
+        <form action="" method="get" target="_blank" novalidate>
+            <div>
+                <label for="search">Search</label>
+                <br>
+                <br>
+                <input type="search" placeholder="Enter A Search Word" name="search" autofocus id="search">
+            </div>
+            <br>
+            <div>
+                <label for="file">File</label>
+                <br>
+                <br>
+                <input type="file" name="file" id="file">
+            </div>
+            <br>
+            <div>
+                <label for="url">URL</label>
+                <br>
+                <br>
+                <input type="url" name="url" required id="url">
+            </div>
+            <br>
+            <div>
+                <label for="date">date</label>
+                <input type="date" name="date" id="date" value="1982-10-25">
+            </div>
+            <br>
+            <div>
+                <label for="month">month</label>
+                <input type="month" name="month" id="month" value="1982-10">
+            </div>
+            <br>
+            <input type="submit" value="Send">
+            <input type="reset" value="Empty">
+        </form>
+
+        <!-- <pre>
+            Hello Line One
+            Hello Line Two
+            Hello Line Three
+                Hello Line Four
+        </pre>
+
+        <iframe src="https://elzero.org/" width="100%" height="400px"></iframe> -->
+    </body>
+
+</html>

@@ -1,0 +1,30 @@
+<!-- 
+    accessibility => make the experience easy for people who have disabilities
+    ARIA => Accessible Rich Internet Applications
+    Screen readers => JAWS
+    div(role aria-checked tabindex aria-labelledby)
+ -->
+
+
+<!-- التكليف 02 -->
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    </head>
+
+    <body>
+        <div class="choose-skill" role="checkbox" aria-checked="true" tabindex="0" aria-labelledby="Skill">
+            <div class="skill" id='1' tabindex="0">Python</div>
+            <label id="1">Skill One</label>
+            <div class="skill" id='2' tabindex="0">PHP</div>
+            <label id="2">Skill Two</label>
+            <div class="skill" id='3' tabindex="0">JavaScript</div>
+            <label id="3">Skill Three</label>
+        </div>
+    </body>
+
+</html>
